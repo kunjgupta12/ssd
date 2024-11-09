@@ -14,4 +14,6 @@
     "express": "^4.18.2",
     "node_chat_app": "file:",
     "nodemon": "^3.0.2",
-  
+    "socket.io": "^2.4.1"
+  }
+}
